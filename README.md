@@ -8,3 +8,6 @@ first we have to push your code on github then git repo --- configure deployment
 i learn how to live our code and make website 
 <br>
 i did not written code by i understand deployment.
+<br>
+today I also learn how to live the website 
+wirh help of HTML,CSS,JAVASCRIPT
