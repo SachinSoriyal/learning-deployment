@@ -16,4 +16,6 @@ I also learn how to make website and I am trying to create my portfolio website
 <br>
 I also learn some commands are must required to save the changes from vs code to github.
 <br>
-commands like git push , git add .  , git status , git commit -m "Updated portfolio" 
+commands like git push , git add .  , git status , git commit -m "Updated portfolio"
+<br>
+learn how to do coding without use of vs code just from codespace of the repository
