@@ -18,4 +18,4 @@ I also learn some commands are must required to save the changes from vs code to
 <br>
 commands like git push , git add .  , git status , git commit -m "Updated portfolio"
 <br>
-learn how to do coding without use of vs code just from codespace of the repository
+learn how to do coding without use of vs code just from codespace of the repository and make my learning experience easier
