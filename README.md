@@ -27,3 +27,5 @@ Numpy : Numerical computing (arrays, mathematical operations).
 Pandas : Data manipulation and analysis (DataFrames, CSV/Excel handling).
 <br>
 Matplotlib : Data visualization (graphs and charts).
+<br>
+Framework = A framework is a ready-made foundation that helps you build an application without starting from zero
