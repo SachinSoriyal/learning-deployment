@@ -26,3 +26,4 @@ Numpy : Numerical computing (arrays, mathematical operations).
 <br>
 Pandas : Data manipulation and analysis (DataFrames, CSV/Excel handling).
 <br>
+Matplotlib : Data visualization (graphs and charts).
