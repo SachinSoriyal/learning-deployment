@@ -22,3 +22,5 @@ learn how to do coding without use of vs code just from codespace of the reposit
 <br>
 hear about numpy,pandas  and matplotlib
 <br>
+Numpy : Numerical computing (arrays, mathematical operations).
+<br>
