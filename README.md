@@ -36,7 +36,7 @@ Python → The programming language.
 Django → The framework that helps you build the website quickly.
 <br>
 Think of it like this:
-
+<br>
 🧱 Programming language = Bricks
 🛠️ Library = Tools
 🏗️ Framework = Ready-made building structure
