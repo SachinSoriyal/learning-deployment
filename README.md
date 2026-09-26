@@ -38,5 +38,7 @@ Django → The framework that helps you build the website quickly.
 Think of it like this:
 <br>
 🧱 Programming language = Bricks
+<br>
 🛠️ Library = Tools
+<br>
 🏗️ Framework = Ready-made building structure
