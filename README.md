@@ -29,3 +29,14 @@ Pandas : Data manipulation and analysis (DataFrames, CSV/Excel handling).
 Matplotlib : Data visualization (graphs and charts).
 <br>
 Framework = A framework is a ready-made foundation that helps you build an application without starting from zero
+<br>
+If you want to build a website using Python:
+<br>
+Python → The programming language.
+Django → The framework that helps you build the website quickly.
+<br>
+Think of it like this:
+
+🧱 Programming language = Bricks
+🛠️ Library = Tools
+🏗️ Framework = Ready-made building structure
